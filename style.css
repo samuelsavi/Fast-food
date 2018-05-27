@@ -70,6 +70,7 @@ ul li a{
 	width: 100%;
 	height: auto;
 	background-size: cover;
+	background-position:center;
 	background-image: url("background.jpg");
 	padding:180px 0 100px 0;
 }
